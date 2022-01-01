@@ -1,0 +1,21 @@
+{
+  "name": "project_telegram_bot_mode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.9",
+    "nodemon": "^2.0.4",
+    "pkg": "^4.4.9",
+    "require": "^2.4.20",
+    "telegraf": "^3.38.0"
+  },
+  "type": "module"
+}
